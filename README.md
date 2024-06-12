@@ -1,1 +1,3 @@
-# Snake-Pygame
+# Snake Game (Python)
+
+## Introduction
