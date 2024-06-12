@@ -7,7 +7,7 @@ A simple age old classic version of snake game. You can control the snake using 
 ## Requirements
 Python and it's library `pygame` is required to run the program. You can install pygame using the following command:
 
-```py
+```cmd
 pip install pygame
 ```
 
